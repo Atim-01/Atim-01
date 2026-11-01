@@ -10,7 +10,7 @@
 ### 🚀 About Me
 - 💻 I’m a **Full-Stack Developer** passionate about building scalable, user-friendly applications.  
 - ✍🏽 Also a **Technical Writer**, simplifying complex concepts into clear documentation.  
-- 🌱 Currently improving skills in **Cloud (AWS, Docker, CI/CD)** and **System Design**.  
+- 🌱 Skilled in **Cloud (AWS, Docker, CI/CD)** and **System Design**.  
 - 👯 Open to collaboration on **Open Source Projects** & **Tech Communities**.  
 - 📫 Reach me at **aedubio@gmail.com**  
 - 📄 My portfolio/resume: [CakeResume](https://www.cakeresume.com/atim-edubio)  
