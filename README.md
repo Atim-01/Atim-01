@@ -1,57 +1,109 @@
-<h1 align="center">Hi 👋, I'm Atim Edubio</h1>
-<h3 align="center">Full-Stack Developer | Technical Writer | Lifelong Learner</h3>
+# Hi, I'm Atim Edubio 👋
+
+### Full-Stack Software Engineer | AI & Backend Systems
+
+I build software across the entire stack, from the interfaces people interact with to the backend systems that power them, and the AI capabilities that make them smarter.
+
+I enjoy taking on engineering problems, understanding how systems work, and turning ideas into functional products. Whether I'm building a frontend experience, designing an API, working with databases, integrating AI models, or improving an existing codebase, I care about writing software that works well beyond the demo.
+
+---
+
+### 💡 What I Work On
+
+- **Frontend Engineering:** Building responsive interfaces, interactive experiences, and web applications with React, Next.js, and TypeScript.
+- **Backend Engineering:** Designing REST APIs, backend services, authentication systems, and application architectures.
+- **AI Engineering:** Integrating LLMs, developing AI agents, building intelligent workflows, and exploring RAG-based applications.
+- **Database Engineering:** Relational database design, data modelling, query optimisation, and database integrations.
+- **Payments & Integrations:** Working with payment workflows, third-party integrations, and blockchain-based financial infrastructure.
+- **Software Engineering:** Debugging unfamiliar codebases, investigating root causes, fixing bugs, implementing features, and improving software quality.
+- **Cloud & DevOps:** Containerisation, deployment workflows, CI/CD, and cloud infrastructure.
+
+---
+
+### 🛠️ Technologies & Tools
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,html,css" alt="Languages" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs" alt="Frontend technologies" />
+</p>
+
+**Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi" alt="Backend technologies" />
+</p>
+
+**Databases & ORM**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,supabase" alt="Databases and ORM" />
+</p>
+
+**AI & Intelligent Systems**
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Model%20Context%20Protocol-5A45FF?style=for-the-badge&logoColor=white" alt="MCP" />
+</p>
+
+**AI Engineering Concepts**
+
+LLM Integrations · AI Agents · Retrieval-Augmented Generation (RAG) · Prompt Engineering
+**Cloud, DevOps & Development Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,docker,git,github,linux,githubactions" alt="Cloud and development tools" />
+</p>
+
+---
+
+### 🌱 What I'm Interested In
+
+- Building intelligent, AI-powered software products.
+- Engineering reliable and maintainable backend systems.
+- Creating seamless frontend and backend experiences.
+- Exploring agentic AI, automation, and developer tooling.
+- Solving practical problems through thoughtful software engineering.
+
+---
+
+### 🤝 Let's Connect
+
+I'm always interested in meaningful engineering conversations, collaborations, and opportunities to build useful software.
+
+<p align="left">
+  <a href="mailto:aedubio@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/atim-edubio/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atim-01&label=Profile%20views&color=0e75b6&style=flat" alt="atim-01" />
-</p>
-
----
-
-### 🚀 About Me
-- 💻 I’m a **Full-Stack Developer** passionate about building scalable, user-friendly applications.  
-- ✍🏽 Also a **Technical Writer**, simplifying complex concepts into clear documentation.  
-- 🌱 Skilled in **Cloud (AWS, Docker, CI/CD)** and **System Design**.  
-- 👯 Open to collaboration on **Open Source Projects** & **Tech Communities**.  
-- 📫 Reach me at **aedubio@gmail.com**  
-- 📄 My portfolio/resume: [CakeResume](https://www.cakeresume.com/atim-edubio)  
-
----
-
-### 🌐 Connect With Me
-<p align="left">
-<a href="https://twitter.com/AEdubio19554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atim-edubio" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/atim-edubio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atim-edubio" height="30" width="40" /></a>
-</p>
-
----
-
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atim-01&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atim-01&show_icons=true&hide_border=true&theme=transparent" alt="Atim's GitHub Statistics" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atim-01&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atim-01&layout=compact&hide_border=true&theme=transparent" alt="Atim's Most Used Languages" />
 </p>
 
+---
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atim-01&theme=radical" alt="GitHub Streak Stats"/>
+  <i>Good software solves problems. Great engineering makes the solutions dependable.</i>
 </p>
