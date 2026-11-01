@@ -92,18 +92,6 @@ I'm always interested in meaningful engineering conversations, collaborations, a
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atim-01&show_icons=true&hide_border=true&theme=transparent" alt="Atim's GitHub Statistics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atim-01&layout=compact&hide_border=true&theme=transparent" alt="Atim's Most Used Languages" />
-</p>
-
----
-
 <p align="center">
   <i>Good software solves problems. Great engineering makes the solutions dependable.</i>
 </p>
